@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# SQL Server Management Studio Solution File, Format Version 19.00
+VisualStudioVersion = 15.0.28307.421
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{4F2E2C19-372F-40D8-9FA7-9D2138C6997A}") = "DESAFIO TASKEN - BD", "DESAFIO TASKEN - BD\DESAFIO TASKEN - BD.ssmssqlproj", "{B2A18E32-155E-464A-B700-52E7958DCB7D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Default|Default = Default|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B2A18E32-155E-464A-B700-52E7958DCB7D}.Default|Default.ActiveCfg = Default
+		{1E4A8A1C-AC3A-460F-800B-4741D1134BE6}.Default|Default.ActiveCfg = Default
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E91554A6-8C06-41BC-9A02-1633573CC609}
+	EndGlobalSection
+EndGlobal
